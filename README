@@ -1,0 +1,11 @@
+Requisitos:
+1- Login
+2- Fornecedores
+3- Clientes
+4- Produção
+
+Requisitos Funcionais:
+1- Diferenciar login entre funcionário e administrador;
+2- Criar, gerenciar e armazenar dados de fornecedores;
+3- Criar, gerenciar e armazenar dados de cliente;
+4- Criar, gerenciar e armazenar dados da Produção;
