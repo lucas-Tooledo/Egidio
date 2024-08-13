@@ -1,11 +1,16 @@
 Requisitos:
-1- Login
-2- Fornecedores
-3- Clientes
-4- Produção
+1- Tela de Login;
+2- Tela de Fornecedores;
+3- Tela de Clientes;
+4- Tela de Produção.
 
 Requisitos Funcionais:
-1- Diferenciar login entre funcionário e administrador;
-2- Criar, gerenciar e armazenar dados de fornecedores;
-3- Criar, gerenciar e armazenar dados de cliente;
-4- Criar, gerenciar e armazenar dados da Produção;
+1- Verificar as credenciais de Login;
+2- Recuperação de email e senha;
+3- Diferenciar login entre funcionário e administrador;
+4- Criar, gerenciar e armazenar dados de fornecedores;
+5- Criar, gerenciar e armazenar dados de cliente;
+6- Cliente deve ter feito alguma compra nos ultimos 4 anos;
+7- Criar, gerenciar e armazenar dados da Produção;
+8- Produção deve incluir algum produto.
+
